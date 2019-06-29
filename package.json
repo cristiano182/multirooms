@@ -1,0 +1,33 @@
+{
+  "name": "multirooms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "cristianoo",
+  "license": "MIT",
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js",
+    "lib/"
+  ],
+  "keywords": [
+    "framework",
+    "web",
+    "rest",
+    "restful",
+    "app",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiano182/multirooms.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --require test/support/env --reporter spec --bail --check-leaks --no-exit test/ test/acceptance/"
+  }
+}
