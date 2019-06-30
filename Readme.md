@@ -42,14 +42,12 @@ $ yarn add multirooms --save
 
 
 
-
-
-Create a Message Mongoose Schema
+- Create a Message Mongoose Schema.
 
 <img src="https://github.com/cristiano182/multirooms/blob/master/mongooseSchema.png" width="500" />
 
 
-Up Node Server and Get Use ! Example
+- Running Node-Server and follow the Example.
 
 <img src="https://github.com/cristiano182/multirooms/blob/master/Example.png" width="500" />
 
