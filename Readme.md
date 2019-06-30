@@ -19,8 +19,9 @@ $ yarn add multirooms --save
 
 Mongoose and Socket.io is a dependency for this library. 
 
-### Channels
+## Channels
 
+### The Server-Side
 - #### userConnected
 
   - receives the location user, client socket and increment onlineUsers array with location(latitude, longitude)
@@ -39,3 +40,6 @@ Mongoose and Socket.io is a dependency for this library.
 - #### messages
 
     dasdasdasdasd
+    
+    
+ ### The Client-Side
