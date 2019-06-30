@@ -34,10 +34,6 @@ $ yarn add multirooms --save
     dasdasdasdasd
     
     
- ### On the Client-Side
- 
- 
- 
 ## How to use
 - Mongoose and Socket.io is a dependency for this library. 
 - const multirooms = require('multirooms')
