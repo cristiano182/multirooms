@@ -38,7 +38,7 @@ $ yarn add multirooms --save
 - const multirooms = require('multirooms')
 
 - Set configuration in setConfig function.
-  - receives 3 params, (ModelMessaSchema, Number of Rooms, Number of Skip for Pagination function)
+  - Receives 3 params, (ModelMessageSchema, Number of Rooms, Number of skip for Pagination function)
 
 
 
