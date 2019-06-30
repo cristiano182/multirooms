@@ -39,7 +39,8 @@ $ yarn add multirooms --save
  
  
 ## How to use
-Mongoose and Socket.io is a dependency for this library. 
+- Mongoose and Socket.io is a dependency for this library. 
+- const multirooms = require('multirooms')
 
 Create a Message Mongoose Schema
 
