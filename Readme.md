@@ -43,6 +43,6 @@ Mongoose and Socket.io is a dependency for this library.
 
 Create a Message Mongoose Schema
 
-<img src="https://github.com/cristiano182/multirooms/blob/master/mongooseSchema.png" width="400" />
+<img src="https://github.com/cristiano182/multirooms/blob/master/mongooseSchema.png" width="500" />
 
 
