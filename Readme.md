@@ -23,7 +23,9 @@ Mongoose and Socket.io is a dependency for this library.
 
 - #### userConnected
 
-  - receive the location user and client socket
+  - receives the location user, client socket and increment onlineUsers array with location(latitude, longitude)
+  
+  - sends the all messages for client connected and sends for all cliente connected new onlinesUsers array value 
   
   
 - #### pagination
