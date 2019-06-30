@@ -21,10 +21,10 @@ Mongoose and Socket.io is a dependency for this library.
 
 ### Channels
 
-- userConnected
+- #### userConnected
 
   ddkasdasd
   
-- pagination
+- #### pagination
 
   dsfdsdfsdfsdfsdf
