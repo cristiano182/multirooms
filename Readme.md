@@ -40,6 +40,8 @@ $ yarn add multirooms --save
 - Set configuration in setConfig function.
   - receives 3 params, (ModelMessaSchema, Number of Rooms, Number of Skip for Pagination function)
 
+
+
 Create a Message Mongoose Schema
 
 <img src="https://github.com/cristiano182/multirooms/blob/master/mongooseSchema.png" width="500" />
