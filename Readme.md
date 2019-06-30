@@ -28,3 +28,11 @@ Mongoose and Socket.io is a dependency for this library.
 - #### pagination
 
   dsfdsdfsdfsdfsdf
+  
+- #### disconnect
+
+    sfsdfsdfsdf
+    
+- #### messages
+
+    dasdasdasdasd
