@@ -13,7 +13,6 @@ $ yarn add multirooms --save
 
 ## Channels
 
-### On the Server-Side
 - #### userConnected
 
   - receives the location user, client socket and increment onlineUsers array with location(latitude, longitude)
