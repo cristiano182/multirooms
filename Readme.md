@@ -21,7 +21,7 @@ Mongoose and Socket.io is a dependency for this library.
 
 ## Channels
 
-### The Server-Side
+### On the Server-Side
 - #### userConnected
 
   - receives the location user, client socket and increment onlineUsers array with location(latitude, longitude)
@@ -42,4 +42,4 @@ Mongoose and Socket.io is a dependency for this library.
     dasdasdasdasd
     
     
- ### The Client-Side
+ ### On the Client-Side
