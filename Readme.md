@@ -22,15 +22,18 @@ $ yarn add multirooms --save
   
 - #### pagination
 
-  dsfdsdfsdfsdfsdf
+  - receives the number to skip and room to send messages.
+  - sends the pagination messages with limit value.
   
 - #### disconnect
 
-    sfsdfsdfsdf
+    - remove the current client in onlineUsers array and sends new array value to all clients connected.
     
 - #### messages
 
-    dasdasdasdasd
+    - receives, create and save  a new message.
+    - sends a new message receive and new numberMessages value in current room  to all users connected.
+    
     
     
 ## How to use
