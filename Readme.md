@@ -37,8 +37,10 @@ $ yarn add multirooms --save
 - Mongoose and Socket.io is a dependency for this library. 
 - const multirooms = require('multirooms')
 
-- Set configuration in  multirooms.setConfig().
+- Set configuration in  multirooms.setConfig
+
   - Receives 3 params, (ModelMessageSchema, Number of Rooms, Number of skip for Pagination function).
+
 
 
 
