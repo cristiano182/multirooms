@@ -14,11 +14,6 @@ or
 
 $ yarn add multirooms --save
 
-
-## How to use
-
-Mongoose and Socket.io is a dependency for this library. 
-
 ## Channels
 
 ### On the Server-Side
@@ -43,3 +38,10 @@ Mongoose and Socket.io is a dependency for this library.
     
     
  ### On the Client-Side
+ 
+ 
+ 
+## How to use
+
+Mongoose and Socket.io is a dependency for this library. 
+
