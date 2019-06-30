@@ -23,7 +23,8 @@ Mongoose and Socket.io is a dependency for this library.
 
 - #### userConnected
 
-  ddkasdasd
+  --- receive the location user and client socket
+  
   
 - #### pagination
 
