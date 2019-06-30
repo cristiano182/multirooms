@@ -1,10 +1,7 @@
 ## Multirooms
 
-Simple lib for create multirooms chat
-
-## About this Project
-
-Make an scaleable chat.Handle location and online users.
+- Simple lib for create multirooms chat
+- Make an scaleable chat.Handle location and online users.
 
 ## Getting Started
 
