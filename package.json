@@ -1,6 +1,6 @@
 {
   "name": "multirooms",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Create Chat MultiRooms with Socket.io",
   "main": "index.js",
   "author": "cristianoo",
